@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: black;
+            text-align: center;
+        }
+        h1{
+            font-size: 50px;
+            color: #ffff00;
+            text-align: center;
+        }
+        nav{
+            height: 100px;
+            background-image: linear-gradient(red,orange,yellow);
+            border-radius: 10px;
+            display: flex;
+            align-items: left;
+        }
+        a{ 
+            color: white;
+            font-weight: bolder;
+            text-align: left;
+            text-decoration: none;
+        }
+        li{
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        ul{
+            list-style: none;
+            display: flex;
+            margin-left: auto;
+        }
+        img{
+            height: 100px;
+            width: 100px;
+            border-radius: 10px;
+        }
+        h2{
+            margin-top: -30px;
+        }
+   
+    </style>
+</head>
+<body>
+    <nav>
+        <h2><img src="https://art.ngfiles.com/images/781000/781757_sketching1star_pac-man-looped.gif?f1547186404" alt=""></h2>
+        <ul>
+            <li><a href="file:///Users/nivu/Desktop/Coding%20class/Codeyoung/Compitition/PACMANREAL.html">HomePage</a></li>
+            <li><a href="file:///Users/nivu/Desktop/Coding%20class/Codeyoung/Compitition/PACMANREAL2.html">AboutPage</a></li>
+            <li><a href="file:///Users/nivu/Desktop/Coding%20class/Codeyoung/Compitition/PACMANREAL3.html">Videos and GIF'S</a></li>
+            <li><a href="file:///Users/nivu/Desktop/Coding%20class/Codeyoung/Compitition/PACMANREAL4.html">Games</a></li>
+            <li><a href="file:///Users/nivu/Desktop/Coding%20class/Codeyoung/Compitition/PACMANREAL5.html">Survey</a></li>
+        </ul>
+    </nav><br>
+    <h1>Pac Man Games</h1>
+    <a href="https://freepacman.org/"><img src="https://art.pixilart.com/ae32477a5be772a.gif" alt=""></a>
+    <a href="https://worldsbiggestpacman.com/"><img src="https://static.wikia.nocookie.net/pacisback/images/e/ee/Giant_Pac-Man.png/revision/latest?cb=20130921083217" alt=""></a><br>
+    <a href="https://www.google.com/logos/2010/pacman10-i.html"><img src="https://assets1.ignimgs.com/2021/04/14/pacman99-review-blogroll-1618430178977_160w.jpg?width=1280" alt=""></a>
+    <a href="https://pacman.live/play.html"><img src="https://www.freevector.com/uploads/vector/preview/17928/FreeVector-Pac-Man-Characters.jpg" alt=""></a>
+</body>
+</html>
